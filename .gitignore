@@ -1,4 +1,12 @@
 # Compiled class file
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.vscode/
+target/
+Thumbs.db
 *.class
 
 # Log file
